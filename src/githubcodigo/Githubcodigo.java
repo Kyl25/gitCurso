@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package githubcodigo;
-
+import java.util.*;
 /**
  *
  * @author kilme
@@ -15,7 +15,9 @@ public class Githubcodigo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        system.out.println("hola mundo");
+            System.out.println("hola mundo");
+            System.out.print(2*2);
+            
         // TODO code application logic here
     }
     
