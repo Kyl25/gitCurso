@@ -15,7 +15,11 @@ public class Githubcodigo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        system.out.println("hola mundo");
+        System.out.println("hola mundo");
+        for(int i=0;i<5;i++)
+        {
+            System.out.println(i);
+        }
         // TODO code application logic here
     }
     
