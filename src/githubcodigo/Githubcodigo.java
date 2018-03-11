@@ -16,7 +16,7 @@ public class Githubcodigo {
      */
     public static void main(String[] args) {
             System.out.println("hola mundo");
-            System.out.print(2*2);
+            
             
         // TODO code application logic here
     }
